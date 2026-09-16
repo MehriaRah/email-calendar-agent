@@ -1,0 +1,9 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//AI Event Agent//EN
+BEGIN:VEVENT
+SUMMARY:Technical Interview
+DTSTART:62026018T140000
+DESCRIPTION:Technical Interview with Techcorp. Please be online.
+END:VEVENT
+END:VCALENDAR
